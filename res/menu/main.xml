@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings"/>
+    <item
+        android:id="@+id/action_venues"
+        android:orderInCategory="99"
+        android:showAsAction="always"
+        android:title="Venues"/>
+    <item
+        android:id="@+id/action_courses"
+        android:orderInCategory="98"
+        android:showAsAction="always"
+        android:title="Courses"/>
+
+</menu>
